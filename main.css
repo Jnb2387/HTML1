@@ -1,0 +1,37 @@
+.data {
+    border: collaspe;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+th{
+    padding:10px;
+}
+
+.stats{
+  width:40%;
+    border-top: solid grey 1px;
+    border-bottom: solid grey 1px;
+    
+
+}
+
+.num {
+  font-size:30px;
+  font-weight:bold;
+}
+
+.grey {
+  color:grey;
+  font-size:12px;
+}
+
+.bar td{
+    width:100%;
+}
+
